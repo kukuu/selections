@@ -3,7 +3,9 @@
 
 | Label | Resource |
 | --- | --- |
+| Public APIs | https://github.com/public-apis/public-apis |
 | Top 5 In-Demand JavaScript Frameworks for Front-End Development - 2020 | https://medium.com/javascript-in-plain-english/top-5-in-demand-javascript-frameworks-for-front-end-development-in-2020-a59c4340d082 |
+| Formik Basics | Building and Validating Forms with Formik & Yup | https://www.youtube.com/watch?v=bttOjT0jfzs |
 | React Hooks API | https://github.com/kukuu/react-hooks/blob/master/react-hooks-api/notes.md https://reactjs.org/docs/hooks-overview.html |
 | How To Fetch Data From An API With React Hooks |  https://github.com/kukuu/react-hooks/tree/master/react-hooks-api |
 | How to integrate React Hooks into your project without changing your Redux code | https://medium.com/free-code-camp/how-to-integrate-react-hooks-into-your-project-without-changing-your-redux-code-974e6f70f0b0 |
