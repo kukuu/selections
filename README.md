@@ -3,10 +3,18 @@
 
 | Label | Resource |
 | --- | --- |
+| Architecting for High Availability | https://www.youtube.com/watch?v=6uE2XULbT3o |
 | Public APIs | https://github.com/public-apis/public-apis |
 | Top 5 In-Demand JavaScript Frameworks for Front-End Development - 2020 | https://medium.com/javascript-in-plain-english/top-5-in-demand-javascript-frameworks-for-front-end-development-in-2020-a59c4340d082 |
 | Building and Validating Forms with Formik & Yup | https://www.youtube.com/watch?v=bttOjT0jfzs |
-| React Hooks API | https://github.com/kukuu/react-hooks/blob/master/react-hooks-api/notes.md https://reactjs.org/docs/hooks-overview.html |
+| React JS Tutorials for Beginners | https://www.youtube.com/watch?v=-AbaV3nrw6E |
+| API Calls in React/Redux  Colour API | https://www.youtube.com/watch?v=EgGXWQEmsQ0 |
+| How Next.js and Gatsby work and their differences | https://www.youtube.com/watch?v=xC4Yq_mXvPM |
+| Create React App Login Form | https://www.youtube.com/watch?v=M4kk3Ac0WSM&feature=youtu.be |
+| Fetch Data from an API in React.js  | https://www.youtube.com/watch?v=T3Px88x_PsA - https://github.com/benawad/practical-react/tree/12_fetch_data_from_api |
+| Building Payment System with STRIPE  | https://blog.logrocket.com/building-payments-system-react-stripe/ |
+
+| FHow to (& how not to) build Microservices  | https://www.youtube.com/watch?v=9H3eICDz4-4 |
 | How To Fetch Data From An API With React Hooks |  https://github.com/kukuu/react-hooks/tree/master/react-hooks-api |
 | How to integrate React Hooks into your project without changing your Redux code | https://medium.com/free-code-camp/how-to-integrate-react-hooks-into-your-project-without-changing-your-redux-code-974e6f70f0b0 |
 | Airbnb JavaScript Style Guide | https://github.com/airbnb/javascript |
@@ -91,7 +99,6 @@
 | PHP Microservice | https://www.youtube.com/watch?v=Y8L9gqDMH4M |
 | Laravel | https://www.youtube.com/watch?v=PAP8IS_ak6w |
 | Severless, AWS Lambda | https://www.youtube.com/watch?v=afhNipd6TkE |
-| API Calls in React/Redux  Colour API | https://www.youtube.com/watch?v=EgGXWQEmsQ0 |
 | How to Use Sass and Styled Components in a React JS Application | https://medium.com/@iam_timsmith/how-to-use-sass-and-styled-components-in-a-react-js-application-9d352c915fe0 |
 | Build RESTful APIs | https://docs.apigee.com/ |
 
