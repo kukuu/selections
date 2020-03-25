@@ -3,8 +3,8 @@
 
 | Label | Resource |
 | --- | --- |
-| Architecting for High Availability | https://www.youtube.com/watch?v=6uE2XULbT3o |
 | Public APIs | https://github.com/public-apis/public-apis |
+| Architecting for High Availability | https://www.youtube.com/watch?v=6uE2XULbT3o |
 | Top 5 In-Demand JavaScript Frameworks for Front-End Development - 2020 | https://medium.com/javascript-in-plain-english/top-5-in-demand-javascript-frameworks-for-front-end-development-in-2020-a59c4340d082 |
 | Building and Validating Forms with Formik & Yup | https://www.youtube.com/watch?v=bttOjT0jfzs |
 | React JS Tutorials for Beginners | https://www.youtube.com/watch?v=-AbaV3nrw6E |
