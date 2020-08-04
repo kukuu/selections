@@ -102,3 +102,6 @@
 | Build RESTful APIs | https://docs.apigee.com/ |
 
 
+## Resources
+
+- https://github.com/kukuu/AGILITY/blob/master/resources.md
